@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/busca-letras/static/css/main.0d7ad5ad.chunk.css",
+    "main.js": "/busca-letras/static/js/main.d5bd9025.chunk.js",
+    "main.js.map": "/busca-letras/static/js/main.d5bd9025.chunk.js.map",
+    "runtime-main.js": "/busca-letras/static/js/runtime-main.3bc71eea.js",
+    "runtime-main.js.map": "/busca-letras/static/js/runtime-main.3bc71eea.js.map",
+    "static/js/2.c9b0a1e0.chunk.js": "/busca-letras/static/js/2.c9b0a1e0.chunk.js",
+    "static/js/2.c9b0a1e0.chunk.js.map": "/busca-letras/static/js/2.c9b0a1e0.chunk.js.map",
+    "index.html": "/busca-letras/index.html",
+    "precache-manifest.adebe06a748d54823465e19eaa2559c4.js": "/busca-letras/precache-manifest.adebe06a748d54823465e19eaa2559c4.js",
+    "service-worker.js": "/busca-letras/service-worker.js",
+    "static/css/main.0d7ad5ad.chunk.css.map": "/busca-letras/static/css/main.0d7ad5ad.chunk.css.map"
+  }
+}
